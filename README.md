@@ -14,6 +14,16 @@
 $ conv.sh <input.md> -o <output.html>
 ```
 
+## Option
+
+- 目次
+
+`--toc`
+
+- 項番
+
+`-N`
+
 ## css
 
 - [github](https://gist.github.com/griffin-stewie/9755783)
