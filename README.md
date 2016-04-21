@@ -16,13 +16,9 @@ $ conv.sh <input.md> -o <output.html>
 
 ## Option
 
-- 目次
+* 目次 : `--toc`
 
-`--toc`
-
-- 項番
-
-`-N`
+* 項番 : `-N`
 
 ## css
 
